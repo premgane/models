@@ -1,1 +1,1 @@
-bazel-bin/im2txt/run_inference --checkpoint_path=im2txt/model/model.ckpt-2000000 --vocab_file=im2txt/model/word_counts.txt --input_files=im2txt/data/COCO_val2014_000000224477.jpg
+bazel-bin/im2txt/run_inference --checkpoint_path=im2txt/model/ --vocab_file=im2txt/model/word_counts.txt --input_files=im2txt/data/Lord-Vinayagar.jpg
