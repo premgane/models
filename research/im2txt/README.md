@@ -13,7 +13,7 @@ Full text available at: http://arxiv.org/abs/1609.06647
 
 ## Pre-trained models
 
-[Wiki page for pre-trained models here](https://github.com/premgane/models/wiki/img2txt-models)
+[Wiki page for pre-trained models here](https://github.com/premgane/models/wiki/im2txt-models)
 
 ## Contact
 ***Author:*** Chris Shallue
