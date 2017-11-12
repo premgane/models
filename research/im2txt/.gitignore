@@ -7,5 +7,6 @@
 /bazel-tf
 *.gz
 word-count.txt
-model.ckpt-2000000
+model.ckpt-2000000*
 *.pbtxt
+checkpoint
