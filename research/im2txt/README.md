@@ -11,6 +11,10 @@ Oriol Vinyals, Alexander Toshev, Samy Bengio, Dumitru Erhan.
 
 Full text available at: http://arxiv.org/abs/1609.06647
 
+## Pre-trained models
+
+[Wiki page for pre-trained models here](https://github.com/premgane/models/wiki/img2txt-models)
+
 ## Contact
 ***Author:*** Chris Shallue
 
